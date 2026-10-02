@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="./src/name.svg" alt="Mateus Nascimento" />
+  <img src="./src/name.svg" alt="Mateus Bueno" />
 </h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -11,19 +12,20 @@
 </div>
 
 <br/>
+
 <div align="center">
   <img
     width="48%"
     height="195"
     src="https://github-readme-stats.vercel.app/api?username=MateusNascimento-jpg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&ring_color=FF00F6&custom_title=My%20GitHub%20Statistics"
-    alt="Mateus Nascimento GitHub Statistics"
+    alt="Mateus Bueno GitHub Statistics"
   />
   &nbsp;
   <img
     width="48%"
     height="195"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNascimento-jpg&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&custom_title=Most%20Used%20Languages&card_width=500"
-    alt="Mateus Nascimento Most Used Languages"
+    alt="Mateus Bueno Most Used Languages"
   />
 </div>
 
@@ -39,14 +41,21 @@
 <h3 align="left">About me</h3>
 
 <p align="left">
-  Computer Engineering student focused on software development, systems, automation,
-  backend engineering and cybersecurity.
+  Computer Engineering student focused on software engineering, backend development,
+  systems, automation, Linux and cybersecurity.
 </p>
 
 <p align="left">
-  I enjoy building solutions that connect
-  <strong>software, infrastructure, data and hardware</strong>,
-  especially systems designed to solve real operational problems.
+  I enjoy building practical solutions that connect
+  <strong>software, infrastructure, data and hardware</strong> —
+  from backend services, APIs and database integrations to automation,
+  monitoring systems and embedded projects.
+</p>
+
+<p align="left">
+  My main interest is designing reliable systems that solve
+  <strong>real operational problems</strong>, combining engineering fundamentals
+  with clean software architecture, security and performance.
 </p>
 
 <h3 align="left">Connect with me!</h3>
@@ -279,7 +288,15 @@
 
 ---
 
-<h3 align="left">Areas of Interest</h3>
+<h3 align="left">
+  Areas of Interest
+  <img
+    src="./src/ghost.gif"
+    width="70"
+    alt="Ghost"
+    align="middle"
+  />
+</h3>
 
 ```text
 Software Engineering       Backend Development
@@ -288,8 +305,6 @@ Automation                 Databases
 Embedded Systems           Computer Networks
 APIs & Integrations        Hardware / Software Integration
 ```
-
-<br/>
 
 <br/>
 
@@ -312,5 +327,5 @@ APIs & Integrations        Hardware / Software Integration
 ---
 
 <div align="center">
-  <strong>Building software for the real world.</strong>
+  <h3>Real software. Real systems. Real impact.</h3>
 </div>
