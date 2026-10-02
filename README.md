@@ -10,6 +10,7 @@
     />
   </a>
 </div>
+
 <br/>
 
 <div align="center">
@@ -288,3 +289,30 @@ Linux & Systems            Cybersecurity
 Automation                 Databases
 Embedded Systems           Computer Networks
 APIs & Integrations        Hardware / Software Integration
+```
+
+<br/>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
+    width="60"
+    alt="Connect"
+    align="middle"
+  />
+  &nbsp;&nbsp;
+  <em>
+    <b>I enjoy connecting with people who love technology, marketing and engineering.</b>
+    Feel free to reach out! :)
+  </em>
+</p>
+
+<br/>
+
+---
+
+<div align="center">
+  <strong>Building software for the real world.</strong>
+</div>
