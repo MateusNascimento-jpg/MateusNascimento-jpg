@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="./src/name.svg" alt="Mateus Nascimento" />
 </h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -12,7 +11,6 @@
 </div>
 
 <br/>
-
 <div align="center">
   <img
     width="48%"
@@ -33,9 +31,9 @@
 
 <img
   align="right"
-  alt="Edgerunners"
-  height="190px"
-  src="https://raw.githubusercontent.com/MateusNascimento-jpg/paulopontodev/main/src/edgerunners.gif"
+  alt="Developer coding"
+  width="230"
+  src="./src/developer.gif"
 />
 
 <h3 align="left">About me</h3>
