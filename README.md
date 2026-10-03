@@ -69,8 +69,15 @@
 
 <a href="https://www.linkedin.com/in/mateus-nascimento-bueno-2a1ab4364/">
   <img
-    src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF"
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
+  />
+</a>
+
+<a href="https://www.instagram.com/bueno_msn/">
+  <img
+    src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
   />
 </a>
 
