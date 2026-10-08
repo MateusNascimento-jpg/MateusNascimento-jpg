@@ -17,7 +17,7 @@
   <img
     width="48%"
     height="195"
-    src="https://github-readme-stats.vercel.app/api?username=MateusNascimento-jpg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&ring_color=FF00F6&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=MateusNascimento-jpg&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&ring_color=FF00F6&custom_title=My%20GitHub%20Statistics"
     alt="Mateus Bueno GitHub Statistics"
   />
   &nbsp;
@@ -62,15 +62,8 @@
 
 <a href="mailto:mateusnascimentobueno@gmail.com">
   <img
-    src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF"
+    src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/mateus-nascimento-bueno-2a1ab4364/">
-  <img
-    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
   />
 </a>
 
@@ -78,6 +71,13 @@
   <img
     src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/mateus-nascimento-bueno-2a1ab4364/">
+  <img
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
